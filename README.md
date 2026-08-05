@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:161210,50:8a4f1e,100:e9a03c&height=200&section=header&text=Mehmet%20%C5%9Eahin&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%26%20DevOps&descAlignY=58&descSize=16" width="100%" />
+<img src="./banner.png" width="100%" alt="Mehmet Şahin — Software Developer | Backend & DevOps" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mhmtshntr/">
@@ -7,27 +7,26 @@
   <a href="mailto:mehmet680644@gmail.com">
     <img src="https://img.shields.io/badge/Mail-1c1917?style=for-the-badge&logo=gmail&logoColor=e9a03c" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Mhmtshn6&style=for-the-badge&color=e9a03c&label=ZIYARET" />
 </p>
 
 ---
 
-## Hakkımda
-
-Bilgisayar Mühendisliği mezunuyum; ağırlıklı olarak **backend geliştirme** ve **deployment** süreçleri üzerine çalışıyorum. İlgi alanım, kurgulanan sistemin yalnızca geliştirme ortamında değil, canlıya alındıktan sonra da kararlı biçimde çalışmasını sağlamak: katmanlı mimari, veritabanı tasarımı, API kurgusu ve sunucu tarafı yapılandırma.
-
-```console
-$ whoami --verbose
-
-  rol       : Software Developer  ·  Backend & DevOps
-  egitim    : Bilgisayar Muhendisligi
-  konum     : Kayseri / Turkiye
-  odak      : ASP.NET Core · SQL Server · Flutter · deployment
-```
-
-- **Güncel çalışma:** Saha ekiplerine yönelik, .NET tabanlı servis ve iş takip platformu (Flutter mobil istemci)
-- **Geliştirdiğim alanlar:** Docker, CI/CD süreçleri, sunucu ve ağ yönetimi
-- **İletişime açık olduğum konular:** API tasarımı, katmanlı mimari, IIS & SQL Server yapılandırması, deployment
+<table>
+  <tr>
+    <td valign="top" width="58%">
+      <h2>Hakkımda</h2>
+      <p>Bilgisayar Mühendisliği mezunuyum; ağırlıklı olarak <b>backend geliştirme</b> ve <b>deployment</b> süreçleri üzerine çalışıyorum. Odağım, geliştirilen sistemin canlıya alındıktan sonra da kararlı biçimde çalışması: katmanlı mimari, veritabanı tasarımı, API kurgusu ve sunucu tarafı yapılandırma.</p>
+      <ul>
+        <li>Güncel çalışma: .NET tabanlı servis ve iş takip platformu</li>
+        <li>Geliştirdiğim alanlar: Docker, CI/CD, sunucu yönetimi</li>
+        <li>İletişim: API tasarımı, mimari, deployment</li>
+      </ul>
+    </td>
+    <td valign="top" width="42%">
+      <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" alt="coding" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -73,18 +72,3 @@ $ whoami --verbose
     </td>
   </tr>
 </table>
-
----
-
-## İstatistikler
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mhmtshn6&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e9a03c&icon_color=e9a03c&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mhmtshn6&layout=compact&hide_border=true&bg_color=0d1117&title_color=e9a03c&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mhmtshn6&hide_border=true&background=0d1117&stroke=30363d&ring=e9a03c&fire=e9a03c&currStreakLabel=e9a03c&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:e9a03c,50:8a4f1e,100:161210&height=120&section=footer" width="100%" />
