@@ -17,7 +17,8 @@
   
   <br/>
   
- 
+  <!-- Profil Görüntülenme Sayacı -->
+  <p><img src="https://komarev.com/ghpvc/?username=Mhmtshn6&color=brightgreen&style=flat-square&label=Profil+Ziyaretcisi" alt="Profile Views"></p>
 </div>
 
 <br/>
