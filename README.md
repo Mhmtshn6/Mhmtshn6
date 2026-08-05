@@ -2,8 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0969da&height=220&section=header&text=Mehmet%20Şahin&fontSize=60&fontAlignY=38&fontColor=ffffff" width="100%"/>
 
 <div align="left">
-  <!-- Sinek kaydı tıraşlı, pür dikkat çalışan yazılımcı animasyonu :D -->
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="350" alt="Developer Illustration">
+  <!-- GitHub sunucularında barınan, temiz yüzlü 3D yazılımcı -->
+  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="300" alt="Developer Illustration">
   
   <h1>👋 Selam, Ben Mehmet Şahin</h1>
   
@@ -43,6 +43,7 @@ Donanımdan ziyade tamamen **saf yazılım, backend mimarileri ve DevOps** süre
 
 ### 📊 GitHub İstatistiklerim
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mhmtshn6&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhmtshn6&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%">
+  <!-- Alternatif (daha stabil) sunucu linkleri kullanıldı -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mhmtshn6&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mhmtshn6&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%">
 </p>
