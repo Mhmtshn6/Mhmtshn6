@@ -54,7 +54,7 @@
 | | |
 |---|---|
 | **Albatros Savunma ve Güvenlik** — Yazılım Mühendisliği Stajyeri | Yaz 2026 |
-| **Merkür Savunma Teknolojileri A.Ş.** — Makine Öğrenmesi Stajyeri | Yaz 2025 |
+| **Merkür Savunma Teknolojileri A.Ş.** — Yazılım Mühendisliği Stajyeri | Yaz 2025 |
 
 ---
 
